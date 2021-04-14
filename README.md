@@ -1,7 +1,7 @@
 # Fruta e Fruto
 
 <p>Esse projeto foi desenvolvido com o objetivo de treinar o meu desenvolvimento de <strong>HTML e CSS</strong> usando o framework <strong>BootStrap</strong></p>
-<p>Tais tecnologias foram adquiridas pelos cursos que venha fazendo ao longo dessa caminhado de desenvolvimento</p>😉
+<p>Tais tecnologias foram adquiridas pelos cursos que venho fazendo ao longo dessa caminhada de desenvolvimento</p>😉
 
 ## Para rodar o projeto 
 
